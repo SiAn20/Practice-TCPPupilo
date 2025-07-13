@@ -1,17 +1,18 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define int long long
+#define N '\n'
 
 void solve() {
-    
+      
 }
 
 signed main() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
 
     int t;
-    cin >> t;
+    cin >> t; 
     while (t--) solve();
 }
 
