@@ -1,18 +1,23 @@
+// Sidney Angelly Sahonero Garrado
 #include <bits/stdc++.h>
 using namespace std;
-#define int long long
+#define N '\n'
 
-void solve() {
-    
-}
+void solve() {}
 
 signed main() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
+  ios::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout.tie(NULL);
 
-    int t;
-    cin >> t;
-    while (t--) solve();
+  int t;
+  cin >> t;
+  while (t--)
+    solve();
 }
 
-// by Sidney Angelly Sahonero Garrado
+/*
+     /\_/\
+    ( o.o )
+     > ^ <
+*/
