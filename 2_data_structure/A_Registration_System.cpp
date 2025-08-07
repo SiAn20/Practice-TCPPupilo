@@ -13,8 +13,7 @@ void solve() {
     if (map[text] == 0) { // si no esta en el mapa lo metemos con valor 1
       cout << "OK" << endl;
       map[text]++;
-    } else { // si esta en el mapa lo imprimimos con su valor y aumentamos su
-             // valor
+    } else { // si esta en el mapa lo imprimimos con su valor y aumenta valor
       cout << text << map[text]++ << endl;
     }
   }
