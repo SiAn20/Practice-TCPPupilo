@@ -1,4 +1,7 @@
-// Sidney Angelly Sahonero Garrado
+/*
+  author: SiAn20
+  Name: Sidney Angelly Sahonero Garrado
+*/
 #include <bits/stdc++.h>
 using namespace std;
 // #define int long long
@@ -10,7 +13,7 @@ void solve() {
   int n, m;
   cin >> n >> m;
   gr.resize(n);
-  //creamos el grafo
+  // creamos el grafo
   for (int i = 0; i < m; ++i) {
     int a, b;
     cin >> a >> b;
@@ -21,8 +24,6 @@ void solve() {
   }
 
   //
-  
-
 }
 
 signed main() {
